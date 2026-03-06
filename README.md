@@ -1,7 +1,7 @@
 SuperStore Sales Analysis Dashboard (Power BI)
 📊 Project Overview
 The SuperStore Sales Analysis Dashboard is a data analytics project built using **Power BI** to analyze sales performance, profitability, and customer purchasing patterns of a retail superstore.
-- The dashboard provides interactive visualizations that help identify:
+The dashboard provides interactive visualizations that help identify:
  * Top performing products
  * High revenue regions
  * Sales trends over time
@@ -10,7 +10,7 @@ The SuperStore Sales Analysis Dashboard is a data analytics project built using 
 This project demonstrates **data analysis, data visualization, and business intelligence skills** using Power BI.
 
 🎯 Objectives
-- The main objectives of this project are:
+The main objectives of this project are:
 * Analyze overall **sales performance**
 * Identify **top selling products and categories**
 * Understand **regional sales distribution**
@@ -25,7 +25,7 @@ This project demonstrates **data analysis, data visualization, and business inte
 - DAX : Creating calculated measures and KPIs     
 
 📂 Dataset Information
-- The dataset contains 5900+ sales records and includes the following key fields:
+The dataset contains 5900+ sales records and includes the following key fields:
 * Order ID
 * Order Date
 * Ship Date
@@ -49,7 +49,7 @@ This project demonstrates **data analysis, data visualization, and business inte
 The dataset represents sales transactions for a retail superstore.
 
 🧹 Data Cleaning & Preparation
-- The following data preparation steps were performed:
+The following data preparation steps were performed:
  1. Imported CSV dataset into **Power BI**
  2. Cleaned unnecessary columns
  3. Corrected data types
@@ -59,7 +59,7 @@ The dataset represents sales transactions for a retail superstore.
  7. Built relationships where required
 
 📈 Dashboard Features
-- The Power BI dashboard includes multiple analytical visuals:
+The Power BI dashboard includes multiple analytical visuals:
 
 1️. Sales Overview
  * Total Sales
@@ -71,7 +71,7 @@ The dataset represents sales transactions for a retail superstore.
  Displays regional sales distribution across different geographical areas.
 
 3. Sales by Category
-- Shows performance of product categories such as:
+Shows performance of product categories such as:
  * Furniture
  * Office Supplies
  * Technology
@@ -80,7 +80,7 @@ The dataset represents sales transactions for a retail superstore.
 Highlights the best selling products based on sales revenue.
 
 5️. Profit Analysis
-- Analyzes profitability across:
+Analyzes profitability across:
  * Categories
  * Sub-categories
  * Regions
@@ -89,20 +89,20 @@ Highlights the best selling products based on sales revenue.
 Time-based sales trend showing how sales change over months and years.
 
 7. Payment Mode Analysis
-- Shows how customers prefer to pay:
+Shows how customers prefer to pay:
  * Online
  * Cards
  * Cash
 
 📊 Key Insights
-- Some important insights that can be derived from the dashboard:
+Some important insights that can be derived from the dashboard:
  * Certain regions generate higher sales but lower profit
  * Some product categories contribute more revenue
  * A small number of products contribute to majority of sales
  * Payment mode preferences can influence customer experience
 
 💡 Skills Demonstrated
-- This project highlights the following skills:
+This project highlights the following skills:
  * Data Cleaning
  * Data Transformation
  * Data Visualization
@@ -112,7 +112,7 @@ Time-based sales trend showing how sales change over months and years.
  * Data Analysis
 
 📌 Future Improvements
-- Possible enhancements for the project:
+Possible enhancements for the project:
  * Add customer segmentation analysis
  * Build predictive sales forecasting
  * Add advanced DAX measures
