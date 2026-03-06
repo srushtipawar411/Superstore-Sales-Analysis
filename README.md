@@ -10,6 +10,7 @@ The dashboard provides interactive visualizations that help identify:
 This project demonstrates **data analysis, data visualization, and business intelligence skills** using Power BI.
 
 🎯 Objectives
+
 The main objectives of this project are:
 * Analyze overall **sales performance**
 * Identify **top selling products and categories**
@@ -25,6 +26,7 @@ The main objectives of this project are:
 - DAX : Creating calculated measures and KPIs     
 
 📂 Dataset Information
+
 The dataset contains 5900+ sales records and includes the following key fields:
 * Order ID
 * Order Date
@@ -59,6 +61,7 @@ The following data preparation steps were performed:
  7. Built relationships where required
 
 📈 Dashboard Features
+
 The Power BI dashboard includes multiple analytical visuals:
 
 1️. Sales Overview
@@ -71,6 +74,7 @@ The Power BI dashboard includes multiple analytical visuals:
  Displays regional sales distribution across different geographical areas.
 
 3. Sales by Category
+   
 Shows performance of product categories such as:
  * Furniture
  * Office Supplies
@@ -80,6 +84,7 @@ Shows performance of product categories such as:
 Highlights the best selling products based on sales revenue.
 
 5️. Profit Analysis
+
 Analyzes profitability across:
  * Categories
  * Sub-categories
@@ -89,12 +94,14 @@ Analyzes profitability across:
 Time-based sales trend showing how sales change over months and years.
 
 7. Payment Mode Analysis
+   
 Shows how customers prefer to pay:
  * Online
  * Cards
  * Cash
 
 📊 Key Insights
+
 Some important insights that can be derived from the dashboard:
  * Certain regions generate higher sales but lower profit
  * Some product categories contribute more revenue
@@ -102,6 +109,7 @@ Some important insights that can be derived from the dashboard:
  * Payment mode preferences can influence customer experience
 
 💡 Skills Demonstrated
+
 This project highlights the following skills:
  * Data Cleaning
  * Data Transformation
@@ -112,6 +120,7 @@ This project highlights the following skills:
  * Data Analysis
 
 📌 Future Improvements
+
 Possible enhancements for the project:
  * Add customer segmentation analysis
  * Build predictive sales forecasting
